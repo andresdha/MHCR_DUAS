@@ -1,2 +1,6 @@
 Captchas/
 *.html
+*.csv
+*.xlsx
+Scraper/Scraper_Testing.ipynb
+Scraper/SeleniumScraper.ipynb
